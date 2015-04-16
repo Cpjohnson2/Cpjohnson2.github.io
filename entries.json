@@ -1,14 +1,14 @@
 {
 	"entries":[
 		{
-		"date":"03/12/2015",
-		"title":"Hello world",
-		"text":"I started blogging today!"
+		"date":"04/14/2015",
+		"title":"My Second Day",
+		"text":"I don't know what day was more confusing, yesterday (my first day) or today (my second day). But I feel like I am learning<br/>regardless of whether I want to bang my head on the table with force. </br>  Today I, (we) learned boolean operators, which is applying<br/>logic statements to Python, and string Formatting (which is very important, especially when it comes to syntax).We touched upon<br/>if/else statements.  I'm a little frightened of the lists, as there is a lot to remember.  We also wrote code for a dice game that<br/>we wrote rules for, although we did not finish this program, I felt it a little daunting and it seemed like it's going over my head.<br/>Our all on your own lab consisted of arrays and arranging the integers so that they came out true or if asked to, came out false. <br/>I also feel like I have to do some personal work in order to \"catch up\" with the others around here, I feel like an anchor at sea. <br/>Hopefully, like I wrote yesterday, this feeling of inadequacy and confusion will eventually wash away."
 		},
 		{
-		"date":"03/13/2015",
-		"title":"Second entry",
-		"text":"And so it goes..."
+		"date":"04/15/2015",
+		"title":"Third Day",
+		"text":"Today was my third day at dev code bootcamp. I honestly feel better than yesterday and the day before,<br/>my first day.  </br> I still think that there is a lot of work that I need to put in, and determination especially determination!. <br/>Today we worked on our third on your own lab, which consisted of arrays, making sure that the arrays were true, and also <br/>learning how to rotate the arrays so the numbers are in a certain order.  I can only hope that things go smoother from here on out." 
 		}
 	]
 }
