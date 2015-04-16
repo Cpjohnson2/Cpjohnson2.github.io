@@ -10,11 +10,9 @@
 		"title":"Third Day",
 		"text":"Today was my third day at dev code bootcamp. I honestly feel better than yesterday and the day before,<br/>my first day.  </br> I still think that there is a lot of work that I need to put in, and determination especially determination!. <br/>Today we worked on our third on your own lab, which consisted of arrays, making sure that the arrays were true, and also <br/>learning how to rotate the arrays so the numbers are in a certain order.  I can only hope that things go smoother from here on out." 
 		},
-		"date":"04/16/2015",
+		{"date":"04/16/2015",
 		"title":"Fourth Day",
-		"text": "Things are a bit clearer, but still as confusing as hell.  Today we went over our dice game, and applied loops; aka: the while function to our dice game so that we can continue to play our game after the first game. We also learned about loops. <br/> I was paired today with the strongest programmer in our class,
-		and found that I learn the best with people that know what I don't, which at this point is A LOT. I know that it/s good everyone/s learning if there is a teacher/pupil model. I am still VERY lost at this and I continue to have this sinking
-		feeling that I may not be cut out for computer programming.  Will Time tell?  That is the ultimate question at this point."
+		"text": "Things are a bit clearer, but still as confusing as hell.  Today we went over our dice game, and applied loops; aka: the while function to our dice game so that we can continue to play our game after the first game. We also learned about loops. <br/> I was paired today with the strongest programmer in our class and found that I learn the best with people that know what I don't, which at this point is A LOT. I know that it/s good everyone/s learning if there is a teacher/pupil model. I am still VERY lost at this and I continue to have this sinking feeling that I may not be cut out for computer programming.  Will Time tell?  That is the ultimate question at this point."
 		}
 	]
 } 
