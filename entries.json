@@ -58,7 +58,14 @@
 		{"date": "5/1/15",
 		 "title": "Fifteenth Day",
 		 "text": "Happy May Day!  Today we finished up our labs, the last lab had me stumped, it dealt with dates.  I am still trying to wrap my head around that last lab, I think some homework is in store for me this weekend.  This has certainly been my best week since I began here, with out a doubt.  We had two coding challenges on multiple dimension arrays, and I finished both of them!  A big step from where I was two weeks ago.  I look forward to delving even deeper into the JS curriculum next week.  My fear with computer programming is beginning to be washed away by my confidence--- let this trend continue!"
+		},
+		{"date": "5/4/15",
+		"title": "Sixteenth Day",
+		"text": "May the Fourth be with you!  Today we learned some more HTML and JQUERY.   We had 2 labs which dealt directly with HTML, and JQuery.  I find all of our labs extremely useful and applicable.  Java Script is another beast for sure; with the CSS, HTML, and JS, it seems like you need to make sure that all your ducks are in a row before executing properly.  I never thought I'd say this, but I miss Python right now, for that very reason.  Tomorrow, I will delve into the two projects that were assigned by Nick.  The first project has to do with submitting information into a website and validating the information, and the second project is measuring a concrete block.  I look forward to completing these two projects with what I have already learned in JS."
 		}
+		
+		
+		
 
 	]
 } 
