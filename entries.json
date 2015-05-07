@@ -70,6 +70,10 @@
 		{"date": "5/6/2015",
 		"title": "Eighteenth Day",
 		"text": "Today I have decided to not blog about my confusion with computer programming, or my struggles with it. No, today I am going to touch on a couple of things that I have accomplished during my 3 weeks here.  The first thing being the TwitBot.  The first day here, we were introduced to the Twitter API and we were instructed to create a twitter bot that basically replies to the top hash tag of the day. My twitterbot basically says: 'Look out! Darth Vader is standing right behind you,' to anyone that twitted the top hash tag of the day; needless to say, I have been confusing a lot of people on twitter.  The second project I'd like to talk about it my personal project using the Python Language.  My project was intended for my son.  He loves when I tell him Teenage Mutant Ninja Turtle stories, and Star Wars stories.  Well, my storytelling ability has a limit, and so I thought that developing a program that would output not only Star Wars stories and TMNT stories, but it will take characters from both worlds and mash them together so they all live in the same universe.  This is when I realized that a big part of software development is creating programs that makes life a little easier; and my program does that for me."
+		},
+		{"date": "5/7/2015",
+		"title": "Nineteenth Day",
+		"text": "I feel like I am understanding about 50% of JavaScript right now.  this 50% understanding of JS certainly reflects in my projects, which are basically 50% done.  I just can't seem to finish the projects to completion.  It's as if I go along with the JavaScript projects with confidence and aplomb, but that feeling quickly gets dashed when I run into a road block.  The road blocks in JS are much tougher to surmount than when I ran into them in Python.  All I know is that the key to coding is persistence and with enough persistence comes understanding; so I need to be VERY persistent "
 		}
 		
 		
