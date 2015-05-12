@@ -82,6 +82,11 @@
 		{"date": "5/11/2015",
 		"title":"Twenty-First Day",
 		"text":"OK, so I have good news and I have some bad news.  The good news is that over the weekend I dreamt in code.  In fact, I woke up, partly asleep, mumbled something to my wife along the lines of: 'I'm ready to validate', and after uttering this to her, I apparently laid back down and went right back to sleep.  I keep hearing an interesting fact about learning a new language, it's that if you end up dreaming in the language that you are learning it means that you are absorbing at least some of it.  So I was obviously feeling pretty good after waking up and only remembering dreams in which I was coding.  But, here comes the bad news.  After my code heavy dreams I found myself coming into class this morning with a new found sense of confidence only to have it wither away when I was trying to figure out the construction project.  This is obviously very frustrating, and I've run into this problem at least a few times while learning computer coding; that is, whenever I feel like I have a strong hold on the concepts of the languages that we are learning, I almost immediately get humbled by realizing how much I don't know. I wonder how long this goes on for.... When will it 'click' for me, like it's 'clicking' for everyone else in the class.  I've said before, and I'll say it again right now; I hope it clicks soon, because this is getting old." 
+		},
+		{"date": "5/12/15",
+		"title": "Twenty-Second Day",
+		"text":"I made some very serious progress on my project.    Today I pulled all the necessary data from college and NFL football sites, converted them into CSV files, and then converted the CSV files into JSON files.  After storing all this great, and very necessary data, the fun really begins; now I need to work out some algorithms that will decide, for the user, what the best rookie is to draft for their fantasy team.   I like this project a lot, because it combines two passions of mine: sports and software development.  I think the mountain (data) has been conquered, it's just getting down the mountain now that matters, and sometimes that's the most treacherous part.  We'll see how tomorrow goes- hopefully I write some really great functions!"
+		
 		}
 		
 		
