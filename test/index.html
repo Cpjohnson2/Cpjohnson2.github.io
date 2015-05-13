@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script>
+function getposts(){
+console.log("HI THERE!");
+    $.getJSON('combine.json', function(data) {
+		console.log("HI THERE2!");
+//         $.each(data.combine2015[0].items, function(key, val) {
+//                 console.log(key);
+//				 // do stuff each loop
+//        });
+    });
+}
+$(document).ready(function() {
+ getposts(); 
+});
+
+
+
+/*$.ajax({
+url: 'combine2015.json',
+dataType: 'json',
+type: 'get',
+cache: false, 
+success: function(data){
+(data.combine2015).each(function(index,value){
+console.log(data)
+});
+
+}
+
+
+});
+*/
+</script>
+</head>
+<body>
+<div id="fileuploader">Upload</div>
+</body>
+</html>
