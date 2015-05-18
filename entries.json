@@ -97,7 +97,11 @@
 		},
 		{"date": "5/14/15",
 		"title": "Twenty-Fifth Day",
-		"text": "Today was a good day.  I have my website up and drum roll please, it works!  I'm very proud of myself right now.  Today we also had a review of our exam, which is on Monday, and I feel like I will do a pretty good job on it, but I will use the weekend to brush up on some things to better my overall score.  It's a weird thing in computer programming; when things look virtually impossible on a Monday, and by Friday you find yourself actually doing the thing that you found impossible on a Monday.  And that is one of the biggest realzitions that I have since learning computer programming: that the only thing that limits you in computer programming is a persons imagination."
+		"text": "Today was a good day.  I have my website up and drum roll please, it works!  I'm very proud of myself right now.  Today we also had a review of our exam, which is on Monday, and I feel like I will do a pretty good job on it, but I will use the weekend to brush up on some things to better my overall score.  It's a weird thing in computer programming; when things look virtually impossible on a Monday, and by Friday you find yourself actually doing the thing that you found impossible on a Monday.  And that is one of the biggest realization that I have since learning computer programming: that the only thing that limits you in computer programming is a persons imagination."
+		},
+		{"date": "5/18/15",
+		"title": "Twenty-Sixth Day",
+		"text": "Well, today I presented my website.  I think the presentation went well overall.  I liked presenting the website portion of it, and I also found that when I was explaining my source code, I was presenting it a lot smoother than when I was presenting my Python source code for my personal project in Python.  I am still a little nervous for the more formal presentation that we have on the 27th of May in front of the senior web developers, but I have some time to get acquainted with my website and my code, so I should be ok.  Post presentations we dove right into C#.  We have done a few rudimentary labs on C#, think Hello World.  But I know that by tomorrow we will be undertaking concepts that will be much more difficult than anything that we did today.  I am personally looking forward to staying on ONE language for the rest of the time here in the program (1.5 months), I find that jumping from language to language can often be jarring, but it does make for a well rounded student I guess; so there is a method to the madness here."
 		}
 				
 
