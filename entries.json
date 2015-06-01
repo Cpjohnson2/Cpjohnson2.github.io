@@ -134,6 +134,10 @@
 		{"date": "5/29/15",
 		"title": "Thirty-Fourth Day",
 		"text": "Today I had a lunch interview with a company and it went great, so great in fact that I have a second interview lined up, so yay for me.  I also have another interview, with another company scheduled for next week.  I finally feel like I am having an upper hand when it comes to the job market, something that is very new to me at this moment.  The rest of the day was spent finishing up labs, which some parts of the weekend will be used for too."
+		},
+		{"date": "6/1/15",
+		"title": "Thirty-Fifth Day",
+		"text": "This morning, I learned MVC in C#.  Just another thing to wrap my head around.... MVC in C# is interesting to say the least.  There are a lot of parts to the MVC machine, it kind of reminds me of JavaScript.  I finished the first of two MVC projects today that had to do with employees at a fictional company.  The thing that makes MVC hard is that there isn't much on Google for MVC5, but I actually found that struggling through it is important for sharpening my development skills. The second MVC project I am currently still working on, it has the theme as the first project, but we have to create it from scratch, hopefully I'll be done tomorrow."
 		}
 				
 
